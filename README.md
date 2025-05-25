@@ -1,6 +1,5 @@
 # 👋 Hi there, I’m Pacque Axel (aka Xerosta)
 **Front-end and Back-end Lover** <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xerosta&theme=dark&hide_border=false)
 
 ## 🔭 About Me
 I’m a passionate web developer with over 8 years of coding experience—ever since I secretly snuck in code during 6th-grade lessons! I usually focus on front-end development but have grown into a true full-stack enthusiast, building personal projects that span everything from dynamic user interfaces to high-performance back-ends.<br/>
